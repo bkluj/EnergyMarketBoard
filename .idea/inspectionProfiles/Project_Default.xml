@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="backcall" />
+          <option value="cffi" />
+          <option value="click" />
+          <option value="cryptography" />
+          <option value="faiss-cpu" />
+          <option value="importlib_resources" />
+          <option value="ipywidgets" />
+          <option value="pycparser" />
+          <option value="pyOpenSSL" />
+          <option value="zstandard" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
